@@ -1,2 +1,2 @@
-var a = 10;
-var b = 11100;
+var a = 1;
+var b = 10;
